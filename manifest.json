@@ -1,0 +1,19 @@
+{
+  "name": "Dossiê Ford Focus Titanium 2013 - Edição Única",
+  "short_name": "Focus 2013",
+  "description": "Projeto técnico, checklist de equipamentos, custos e galeria offline do Ford Focus Hatch Titanium 2.0 Manual 2013.",
+  "start_url": "./html/index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0b1120",
+  "theme_color": "#1e3a8a",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='96' fill='%230b1120'/%3E%3Ccircle cx='256' cy='256' r='190' fill='none' stroke='%232563eb' stroke-width='28'/%3E%3Ctext x='256' y='285' font-family='Arial,sans-serif' font-size='140' font-weight='bold' fill='%23ffffff' text-anchor='middle'%3EF2.5%3C/text%3E%3C/svg%3E",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
