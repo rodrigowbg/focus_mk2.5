@@ -12,9 +12,9 @@ Aplicação web modular com banco de dados offline (`IndexedDB`) e visualizaçã
 ├── README.md
 ├── css/
 │   └── style.css
-├── js/
+├── javascript/
 │   └── app.js
-├── data/
+├── json/
 │   └── equipamentos.json
 └── images/
     ├── item-01-velas-ngk-iridium.jpg
