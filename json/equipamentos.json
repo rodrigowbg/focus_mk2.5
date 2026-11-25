@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "etapa": "Etapa 1",
+    "nome": "Velas NGK Laser Iridium + Bobinas + Filtros Motorcraft",
+    "local": "Mercado Livre / Ford Peças",
+    "preco": 1850,
+    "imagem": "item-01-velas-bobinas-filtros.jpg"
+  },
+  {
+    "id": 2,
+    "etapa": "Etapa 1",
+    "nome": "Conjunto de 3 Coxins do Motor e Câmbio (Coxim Hidráulico Superior Direito Genuíno Ford)",
+    "local": "Mercado Livre / Ford Peças",
+    "preco": 1450,
+    "imagem": "item-02-coxins-motor.jpg"
+  },
+  {
+    "id": 3,
+    "etapa": "Etapa 1",
+    "nome": "Filtro de Ar Esportivo Inbox Lavável K&N (Ref. 33-2886) ou BMC",
+    "local": "Mercado Livre / Loja K&N",
+    "preco": 680,
+    "imagem": "item-03-filtro-kn.jpg"
+  },
+  {
+    "id": 4,
+    "etapa": "Etapa 1",
+    "nome": "Escapamento Sob Medida em Aço Inox 304 (2 Abafadores Silenciosos OEM+ e Ponteiras Duplas)",
+    "local": "Assunção Escapamentos (BH)",
+    "preco": 4200,
+    "imagem": "item-04-escapamento-inox.jpg"
+  },
+  {
+    "id": 5,
+    "etapa": "Etapa 1",
+    "nome": "Condensador de Ar-Condicionado Novo (Denso / Mahle) + Gás R134a + Isolamento Elastomérico",
+    "local": "Distribuidora A/C / ML",
+    "preco": 1250,
+    "imagem": "item-05-condensador-ac.jpg"
+  },
+  {
+    "id": 6,
+    "etapa": "Etapa 1",
+    "nome": "Filtro de Cabine HEPA Carvão Ativado + Polifenóis Mann-Filter FreciousPlus (FP 2433)",
+    "local": "Mercado Livre / Amazon",
+    "preco": 160,
+    "imagem": "item-06-filtro-cabine-mann.jpg"
+  },
+  {
+    "id": 7,
+    "etapa": "Etapa 1",
+    "nome": "Micro-Ventilador Auxiliar 12V Silencioso (Inline Blower) para Duto de Ar Traseiro",
+    "local": "Mercado Livre / AliExpress",
+    "preco": 220,
+    "imagem": "item-07-ventilador-traseiro.jpg"
+  },
+  {
+    "id": 8,
+    "etapa": "Etapa 2",
+    "nome": "Jogo de 4 Amortecedores Pressurizados Bilstein B4 (Linha OEM+ Focus Mk2.5)",
+    "local": "Importadoras / ML",
+    "preco": 3600,
+    "imagem": "item-08-amortecedores-bilstein-b4.jpg"
+  },
+  {
+    "id": 9,
+    "etapa": "Etapa 2",
+    "nome": "Kit Molas Helicoidais Reforçadas + Calços Técnicos de Nivelamento (+15 mm a +20 mm)",
+    "local": "Fabrini / Mercado Livre",
+    "preco": 1150,
+    "imagem": "item-09-molas-calcos.jpg"
+  },
+  {
+    "id": 10,
+    "etapa": "Etapa 2",
+    "nome": "Kit Upgrade Freios Dianteiros 300 mm (Discos Fremax Carbon+ + Pinças/Suportes Focus 2.0/ST)",
+    "local": "Mercado Livre / Desmanche",
+    "preco": 2100,
+    "imagem": "item-10-freios-fremax-300mm.jpg"
+  },
+  {
+    "id": 11,
+    "etapa": "Etapa 2",
+    "nome": "Jogo de Pastilhas de Freio de Cerâmica Dianteiras e Traseiras (Brembo Ceramic ou Jurid White)",
+    "local": "Mercado Livre / Loja Oficial",
+    "preco": 890,
+    "imagem": "item-11-pastilhas-ceramica.jpg"
+  },
+  {
+    "id": 12,
+    "etapa": "Etapa 2",
+    "nome": "Jogo de 5 Rodas Liga Leve Aro 17\" (4 Rodas + 1 Estepe Integral, 5x108, Preto Brilhante + Friso Azul)",
+    "local": "Mercado Livre / PneuStore",
+    "preco": 4800,
+    "imagem": "item-12-rodas-aro17-preta-azul.jpg"
+  },
+  {
+    "id": 13,
+    "etapa": "Etapa 2",
+    "nome": "Jogo de 5 Pneus 215/50 R17 Michelin Primacy 4+ ou Pirelli Cinturato P7 Seal Inside",
+    "local": "PneuStore / DPaschoal",
+    "preco": 3900,
+    "imagem": "item-13-pneus-michelin-primacy4.jpg"
+  },
+  {
+    "id": 14,
+    "etapa": "Etapa 2",
+    "nome": "Kit Sensor de Pressão e Temperatura dos Pneus TPMS Interno (4 Válvulas + Integração Android)",
+    "local": "AliExpress / Mercado Livre",
+    "preco": 450,
+    "imagem": "item-14-sensor-tpms.jpg"
+  },
+  {
+    "id": 15,
+    "etapa": "Etapa 2",
+    "nome": "Bagageiro de Teto Thule Motion XT (M ou L, Preto Brilhante) + Travessas Thule WingBar Evo",
+    "local": "Loja Oficial Thule / ML",
+    "preco": 7400,
+    "imagem": "item-15-bagageiro-thule-motion-xt.jpg"
+  },
+  {
+    "id": 16,
+    "etapa": "Etapa 3",
+    "nome": "Bateria Automotiva AGM ou EFB de Alta Ciclagem 60Ah/65Ah (Moura EFB ou Heliar AGM)",
+    "local": "Revenda Autorizada Lavras",
+    "preco": 1150,
+    "imagem": "item-16-bateria-agm-efb.jpg"
+  },
+  {
+    "id": 17,
+    "etapa": "Etapa 3",
+    "nome": "Kit Cabos \"Big 3\" (Cobre 35 mm² Estanhado + Terminais Ouro + Caixa de Fusíveis Auxiliar 8 Vias)",
+    "local": "Mercado Livre / Loja Som",
+    "preco": 650,
+    "imagem": "item-17-kit-big3-fusiveis.jpg"
+  },
+  {
+    "id": 18,
+    "etapa": "Etapa 3",
+    "nome": "Manta Acústica Butílica Aluminizada (12 folhas StP Black Gold / Technoise) + Espuma Elastomérica",
+    "local": "Mercado Livre / Audio Parts",
+    "preco": 2400,
+    "imagem": "item-18-manta-acustica-stp.jpg"
+  },
+  {
+    "id": 19,
+    "etapa": "Etapa 3",
+    "nome": "Manta Termoacústica Anti-Chamas para Capô em Matelassê Preto com Costura Azul + Braços Pantográficos",
+    "local": "Mercado Livre",
+    "preco": 580,
+    "imagem": "item-19-manta-capo-pantograficos.jpg"
+  },
+  {
+    "id": 20,
+    "etapa": "Etapa 3",
+    "nome": "Faróis Principais Projetores Bi-LED com Assinatura DRL Contínua em \"L\" e Seta Dinâmica (Focus Mk2.5)",
+    "local": "AliExpress / Farol da Silva",
+    "preco": 3800,
+    "imagem": "item-20-farois-drl-biled.jpg"
+  },
+  {
+    "id": 21,
+    "etapa": "Etapa 3",
+    "nome": "Faróis de Milha Projetores Bi-LED com Anel DRL Branco + Molduras Pintadas em Prata Acetinado",
+    "local": "Mercado Livre / AliExpress",
+    "preco": 680,
+    "imagem": "item-21-milhas-drl-prata.jpg"
+  },
+  {
+    "id": 22,
+    "etapa": "Etapa 3",
+    "nome": "Lanternas Traseiras Full LED Cristalinas/Fumê + Repetidores de Seta Dinâmicos + Puddle Light LED",
+    "local": "AliExpress / Mercado Livre",
+    "preco": 1750,
+    "imagem": "item-22-lanternas-led-setas.jpg"
+  },
+  {
+    "id": 23,
+    "etapa": "Etapa 3",
+    "nome": "Palhetas Limpadoras de Silicone PIAA Super Silicone ou Bosch Aerotwin (26\" + 17\" + 14\" Traseira)",
+    "local": "Amazon / Mercado Livre",
+    "preco": 380,
+    "imagem": "item-23-palhetas-silicone-piaa.jpg"
+  },
+  {
+    "id": 24,
+    "etapa": "Etapa 3",
+    "nome": "Par de Esguichos de Para-Brisa Tipo Névoa/Leque (Focus Mk3 / Volvo C30) em Prata Acetinado",
+    "local": "Mercado Livre / Ford",
+    "preco": 190,
+    "imagem": "item-24-esguichos-leque.jpg"
+  },
+  {
+    "id": 25,
+    "etapa": "Etapa 4",
+    "nome": "Kit Fechamento Suave por Sucção Elétrica para as 4 Portas (Soft-Close Doors IP67)",
+    "local": "AliExpress / Importadora",
+    "preco": 3600,
+    "imagem": "item-25-portas-soft-close.jpg"
+  },
+  {
+    "id": 26,
+    "etapa": "Etapa 4",
+    "nome": "Kit Porta-Malas Elétrico Motorizado (Power Tailgate) com Sensor de Pé (Kick Sensor) e Antiesmagamento",
+    "local": "AliExpress / Importadora",
+    "preco": 3400,
+    "imagem": "item-26-porta-malas-eletrico.jpg"
+  },
+  {
+    "id": 27,
+    "etapa": "Etapa 4",
+    "nome": "Jogo Completo de Borrachas de Vedação Novas OEM + Kit Vedação Dupla EPDM 3M",
+    "local": "Mercado Livre / Jahú",
+    "preco": 850,
+    "imagem": "item-27-borrachas-vedacao-epdm.jpg"
+  },
+  {
+    "id": 28,
+    "etapa": "Etapa 4",
+    "nome": "Jogo de Calhas de Chuva de Encaixe Interno na Canaleta (In-Channel) ClimAir ou Team Heko",
+    "local": "Mercado Livre / Importação",
+    "preco": 620,
+    "imagem": "item-28-calhas-in-channel.jpg"
+  },
+  {
+    "id": 29,
+    "etapa": "Etapa 4",
+    "nome": "Película Térmica Nanocerâmica 3M Crystalline (CR70 + CR40/CR20) + Película Antivandalismo PS8",
+    "local": "Aplicador Credenciado 3M",
+    "preco": 3200,
+    "imagem": "item-29-pelicula-3m-crystalline.jpg"
+  },
+  {
+    "id": 30,
+    "etapa": "Etapa 4",
+    "nome": "Kit Redinhas Solares Magnéticas Sob Medida para Vidros Traseiros (Car Shades)",
+    "local": "AliExpress / Mercado Livre",
+    "preco": 480,
+    "imagem": "item-30-redinhas-solares.jpg"
+  },
+  {
+    "id": 31,
+    "etapa": "Etapa 4",
+    "nome": "Jogo de 4 Soleiras em Aço Escovado Escuro com Inscrição \"FOCUS\" Iluminada em LED Azul",
+    "local": "Mercado Livre / AliExpress",
+    "preco": 390,
+    "imagem": "item-31-soleiras-led-azul.jpg"
+  },
+  {
+    "id": 32,
+    "etapa": "Etapa 5",
+    "nome": "Par de Bancos Dianteiros Elétricos Ortopédicos (Volvo S40/S60 ou Ford Fusion) + Banco Traseiro Bipartido",
+    "local": "Desmanche Credenciado",
+    "preco": 4500,
+    "imagem": "item-32-bancos-ortopedicos-volvo.jpg"
+  },
+  {
+    "id": 33,
+    "etapa": "Etapa 5",
+    "nome": "Kit Aquecimento Lombar Fibra de Carbono (4 Bancos) + Bolsa Pneumática + Motores Rebatimento Traseiro",
+    "local": "AliExpress / Mercado Livre",
+    "preco": 1850,
+    "imagem": "item-33-aquecimento-lombar-motores.jpg"
+  },
+  {
+    "id": 34,
+    "etapa": "Etapa 5",
+    "nome": "Revestimento Completo \"All Black\" (Couro Legítimo + Alcântara Perfurada Costura Azul + Teto Preto)",
+    "local": "Top Tapeçaria (Lavras)",
+    "preco": 6800,
+    "imagem": "item-34-tapecaria-all-black.jpg"
+  },
+  {
+    "id": 35,
+    "etapa": "Etapa 5",
+    "nome": "Par de Mesas Dobráveis Estilo Avião nos Encostos Dianteiros + 2 Lixeiras Slim Magnéticas com LED",
+    "local": "Mercado Livre / AliExpress",
+    "preco": 750,
+    "imagem": "item-35-mesas-dobraveis-lixeiras.jpg"
+  },
+  {
+    "id": 36,
+    "etapa": "Etapa 5",
+    "nome": "Jogo de Cintos de Segurança de 3 Pontos Novos Pretos com Borda Azul (5 Lugares)",
+    "local": "Especialista em Cintos",
+    "preco": 1100,
+    "imagem": "item-36-cintos-borda-azul.jpg"
+  },
+  {
+    "id": 37,
+    "etapa": "Etapa 5",
+    "nome": "Cadeirinha Infantil Slim Fit Isofix/Cinto (3 Anos) + Assento de Elevação com Encosto (9 Anos) Pretos",
+    "local": "Amazon / Loja Bebê",
+    "preco": 2100,
+    "imagem": "item-37-cadeirinhas-infantis.jpg"
+  },
+  {
+    "id": 38,
+    "etapa": "Etapa 5",
+    "nome": "Painel de Instrumentos 100% Digital (Full TFT LCD) Moldado para Focus Mk2.5 (Tema Azul e Branco)",
+    "local": "AliExpress / Especialista",
+    "preco": 3900,
+    "imagem": "item-38-painel-digital-tft.jpg"
+  },
+  {
+    "id": 39,
+    "etapa": "Etapa 5",
+    "nome": "Central Multimídia Android Octa-Core 8GB/128GB Tela QLED 9\" com Android Auto/CarPlay Sem Fio",
+    "local": "Mercado Livre / AliExpress",
+    "preco": 2100,
+    "imagem": "item-39-multimidia-qled-9.jpg"
+  },
+  {
+    "id": 40,
+    "etapa": "Etapa 5",
+    "nome": "Volante Esportivo Base Achatada em Alcântara/Couro com Marcação Azul e Comandos LED Azul",
+    "local": "AliExpress / Volantes Custom",
+    "preco": 2300,
+    "imagem": "item-40-volante-esportivo-led.jpg"
+  },
+  {
+    "id": 41,
+    "etapa": "Etapa 5",
+    "nome": "Manopla de Câmbio Esférica em Fibra de Carbono Fosca com Base Azul + Coifa Alcântara + Pedaleiras Inox",
+    "local": "Mercado Livre / AliExpress",
+    "preco": 420,
+    "imagem": "item-41-manopla-carbono-azul.jpg"
+  },
+  {
+    "id": 42,
+    "etapa": "Etapa 5",
+    "nome": "Kit Fibra Ótica Acrílica de Iluminação Ambiente Azul (Painel, 4 Portas, Pés e Porta-Copos Traseiro)",
+    "local": "Mercado Livre / AliExpress",
+    "preco": 550,
+    "imagem": "item-42-fibra-otica-ambiente.jpg"
+  },
+  {
+    "id": 43,
+    "etapa": "Etapa 5",
+    "nome": "Sistema ADAS Avançado (Câmera Frontal 4K LDWS/FCW + Radar Ponto Cego BSM + Câmera 360°)",
+    "local": "AliExpress / Mercado Livre",
+    "preco": 2200,
+    "imagem": "item-43-sistema-adas-360.jpg"
+  },
+  {
+    "id": 44,
+    "etapa": "Etapa 5",
+    "nome": "Kit Alto-Falantes Dianteiros 2 Vias Focal K2 Power ES 165 KX2 + Coaxial Traseiro Focal PC 165 FE",
+    "local": "Audio Parts / ML",
+    "preco": 5400,
+    "imagem": "item-44-alto-falantes-focal.jpg"
+  },
+  {
+    "id": 45,
+    "etapa": "Etapa 5",
+    "nome": "Amplificador com Processador DSP 8 Canais (Helix V EIGHT DSP MK2 ou Audison Forza AF M8.14 bit)",
+    "local": "Audio Parts / Siri Som",
+    "preco": 6200,
+    "imagem": "item-45-amplificador-dsp-helix.jpg"
+  },
+  {
+    "id": 46,
+    "etapa": "Etapa 5",
+    "nome": "Subwoofer Slim 10\" JL Audio 10TW3-D4 + Caixa Selada de Fibra Moldada na Lateral Esquerda",
+    "local": "Siri Som / Mercado Livre",
+    "preco": 2900,
+    "imagem": "item-46-subwoofer-jl-audio.jpg"
+  },
+  {
+    "id": 47,
+    "etapa": "Etapa 5",
+    "nome": "Par de Telas Traseiras Android 10.1\"/11.6\" Fixadas nas Hastes + 2 Fones Bluetooth Infantis JBL JR310BT (85dB)",
+    "local": "Amazon / Mercado Livre",
+    "preco": 2300,
+    "imagem": "item-47-telas-traseiras-fones-jbl.jpg"
+  },
+  {
+    "id": 48,
+    "etapa": "Etapa 5",
+    "nome": "Antena Starlink Mini + Suporte Interno Teto Solar + Conversor Veicular 12V-24V/100W Oculto",
+    "local": "Site Oficial Starlink / ML",
+    "preco": 2800,
+    "imagem": "item-48-starlink-mini-veicular.jpg"
+  },
+  {
+    "id": 49,
+    "etapa": "Etapa 6",
+    "nome": "Aerofólio Traseiro Estilo Focus ST Mk2.5 + Difusor Traseiro Esportivo + Pintura Prata Acetinado",
+    "local": "Mercado Livre / Funilaria",
+    "preco": 2600,
+    "imagem": "item-49-aerofolio-st-difusor.jpg"
+  },
+  {
+    "id": 50,
+    "etapa": "Etapa 6",
+    "nome": "Película PPF Transparente Auto-Regenerativa (Frente/Retrovisores) + Vitrificação Cerâmica 9H + Glaco",
+    "local": "Studio Viper / Pit Stop Lavras",
+    "preco": 4500,
+    "imagem": "item-50-ppf-vitrificacao-glaco.jpg"
+  }
+]
