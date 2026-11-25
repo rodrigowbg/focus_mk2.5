@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dossiê Ford Focus Titanium 2013 - Edição Única</title>
+  <link rel="manifest" href="./manifest.json">
+  <meta name="theme-color" content="#0b1120">
+  <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+  <header class="top-header">
+    <div class="header-content">
+      <div>
+        <span class="badge">PROJETO RELIQUIA • LAVRAS/MG</span>
+        <h1>Ford Focus Hatch Titanium 2.0 16V Manual 2013</h1>
+        <p class="subtitle">Controle Executivo de Peças, Etapas, Custos e Banco de Dados Offline (IndexedDB)</p>
+      </div>
+      <div class="header-actions">
+        <button id="btn-export" class="btn btn-secondary" title="Baixar cópia de segurança em JSON">Exportar Backup (.JSON)</button>
+        <label for="input-import" class="btn btn-secondary" title="Restaurar progresso salvo">Restaurar Backup</label>
+        <input type="file" id="input-import" accept=".json" hidden>
+      </div>
+    </div>
+
+    <div class="kpi-grid">
+      <div class="kpi-card">
+        <span class="kpi-label">Total de Equipamentos</span>
+        <strong id="kpi-total" class="kpi-value">50 itens</strong>
+      </div>
+      <div class="kpi-card">
+        <span class="kpi-label">Itens Comprados</span>
+        <strong id="kpi-comprados" class="kpi-value text-blue">0 / 50</strong>
+      </div>
+      <div class="kpi-card">
+        <span class="kpi-label">Itens Instalados</span>
+        <strong id="kpi-instalados" class="kpi-value text-green">0 / 50</strong>
+      </div>
+      <div class="kpi-card">
+        <span class="kpi-label">Investimento Peças (Est.)</span>
+        <strong id="kpi-custo-total" class="kpi-value">R$ 0,00</strong>
+      </div>
+      <div class="kpi-card">
+        <span class="kpi-label">Valor Já Adquirido</span>
+        <strong id="kpi-custo-pago" class="kpi-value text-blue">R$ 0,00</strong>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="filters-bar">
+      <input type="text" id="search-input" placeholder="Buscar peça, marca, modelo ou local de compra...">
+      <select id="filter-etapa">
+        <option value="todas">Todas as Etapas (1 a 6)</option>
+        <option value="Etapa 1">Etapa 1: Mecânica, Escape e A/C</option>
+        <option value="Etapa 2">Etapa 2: Suspensão, Freios e Rodas</option>
+        <option value="Etapa 3">Etapa 3: Elétrica, Luzes e Acústica</option>
+        <option value="Etapa 4">Etapa 4: Soft-Close, Vedação e Películas</option>
+        <option value="Etapa 5">Etapa 5: Interior Executivo, Painel e Som</option>
+        <option value="Etapa 6">Etapa 6: Acabamento Externo e PPF</option>
+      </select>
+      <select id="filter-status">
+        <option value="todos">Todos os Status</option>
+        <option value="pendentes">Pendentes de Compra</option>
+        <option value="comprados">Já Comprados</option>
+        <option value="instalados">Já Instalados</option>
+      </select>
+    </section>
+
+    <div class="table-wrapper">
+      <table id="equipamentos-table">
+        <thead>
+          <tr>
+            <th style="width: 50px;">#</th>
+            <th>Equipamento / Modelo / Marca</th>
+            <th style="width: 150px;">Etapa</th>
+            <th style="width: 190px;">Onde Comprar / Executar</th>
+            <th style="width: 130px;">Preço Est.</th>
+            <th style="width: 95px; text-align:center;">Comprado</th>
+            <th style="width: 95px; text-align:center;">Instalado</th>
+            <th style="width: 200px;">Observações</th>
+          </tr>
+        </thead>
+        <tbody id="equipamentos-tbody">
+          <tr><td colspan="8" style="text-align:center; padding: 24px;">Carregando catálogo offline...</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </main>
+
+  <div id="hover-preview" class="hover-preview hidden">
+    <div class="preview-header">
+      <span id="preview-title">Prévia da Peça</span>
+    </div>
+    <div class="preview-body">
+      <img id="preview-img" src="" alt="Imagem da peça">
+      <p id="preview-fallback" class="preview-fallback hidden"></p>
+    </div>
+  </div>
+
+  <script src="./javascript/app.js"></script>
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('./sw.js').catch(err => console.warn('SW:', err));
+      });
+    }
+  </script>
+</body>
+</html>

@@ -1,0 +1,19 @@
+{
+  "name": "Dossiê Ford Focus Titanium 2013 - Edição Única",
+  "short_name": "Focus Titanium 2013",
+  "description": "Controle offline de peças, etapas, custos e imagens do projeto Ford Focus Mk2.5 Titanium 2.0 Manual 2013.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b1120",
+  "theme_color": "#1e3a8a",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='96' fill='%230b1120'/%3E%3Ccircle cx='256' cy='256' r='190' fill='none' stroke='%233b82f6' stroke-width='28'/%3E%3Ctext x='50%25' y='54%25' dominant-baseline='middle' text-anchor='middle' font-family='Arial,sans-serif' font-weight='bold' font-size='130' fill='%23f8fafc'%3EMK2.5%3C/text%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
